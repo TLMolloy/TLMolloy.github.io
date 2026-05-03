@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-Hi, I'm an engineering researcher and academic interested in **decision-making, control, and inference under uncertainty, competition, and constraints** for applications in robotics and other engineered and autonomous systems. My research spans [inverse optimal control](/research/#inverse-optimal-control), [partially observed Markov decision processes (POMDPs)](/research/#pomdps), [minimax robust quickest change detection](/research/#change-detection), [dynamic and differential game theory](/research/#game-theory), and [event-based sensing and perception](/research/#event-cameras).
+Hi, I'm an engineering researcher and academic interested in **decision-making, control, and inference under uncertainty, competition, and constraints for applications in robotics and other engineering domains**. My research spans [inverse optimal control](/research/#inverse-optimal-control), [partially observed Markov decision processes (POMDPs)](/research/#pomdps), [quickest change detection](/research/#change-detection), [dynamic and differential game theory](/research/#game-theory), and [event-based sensing and perception](/research/#event-cameras).
 
 Prior to joining Monash, I was a Senior Lecturer at The Australian National University, a Research Fellow at The University of Melbourne, and an Advance Queensland Research Fellow at the Queensland University of Technology (QUT) embedded with Boeing Research & Technology Australia.
 I received my PhD and bachelor's degrees in engineering from QUT.
