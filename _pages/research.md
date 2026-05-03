@@ -14,14 +14,14 @@ My research spans [inverse optimal control](/research/#inverse-optimal-control),
 ## Inverse Optimal Control {#inverse-optimal-control}
 
 Inverse optimal control (or inverse reinforcement learning) is the problem of inferring the underlying objectives of agents or decision-makers by observing their actions or the consequences of their actions.
-Applications include learning reward functions from human demonstrations, modelling bird mid-air collision avoidance, and inferring pilot intent for aircraft separation assurance.
+Applications include learning reward functions from human demonstrations, modelling bird mid-air collision avoidance, and inferring intent for aircraft collision avoidance.
 
-<div style="display: flex; gap: 1rem; justify-content: center; align-items: center; margin: 2rem 0;">
-  <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/img/book_cover.jpg" alt="Inverse Optimal Control and Inverse Noncooperative Dynamic Game Theory book cover" style="height: 400px; width: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="display: flex; gap: 1rem; justify-content: center; align-items: center; margin: 2rem 0; flex-wrap: wrap;">
+  <div style="text-align: center; flex: 1 1 280px;">
+    <img src="{{ site.baseurl }}/assets/img/book_cover.jpg" alt="Inverse Optimal Control and Inverse Noncooperative Dynamic Game Theory book cover" style="height: 340px; width: auto; max-width: 100%; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
   </div>
-  <div style="text-align: center;">
-    <video height="400" style="width: auto; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" autoplay loop muted playsinline controls>
+  <div style="text-align: center; flex: 1 1 280px;">
+    <video height="340" style="width: auto; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" autoplay loop muted playsinline controls>
       <source src="{{ site.baseurl }}/assets/videos/ioc_rocket.mp4" type="video/mp4">
     </video>
   </div>
