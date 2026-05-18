@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "1 authored book · 29 refereed journal articles · 36 refereed conference papers.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
