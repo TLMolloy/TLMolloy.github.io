@@ -25,7 +25,8 @@ latest_posts:
 
 Hi, I'm an engineering researcher and academic with interests in **decision and control under uncertainty, competition, and information constraints for robotics and related domains**. My research explores topics at the intersection of systems and control, information theory, artificial intelligence, and machine learning. My recent work has been on [inverse optimal control](/research/#inverse-optimal-control), [partially observed Markov decision processes (POMDPs)](/research/#pomdps), [quickest change detection](/research/#change-detection), [dynamic and differential game theory](/research/#game-theory), and [event-based sensing and perception](/research/#event-cameras).
 
-Prior to joining Monash, I was a Senior Lecturer at The Australian National University (ANU), a Research Fellow at The University of Melbourne, and an Advance Queensland Research Fellow at the Queensland University of Technology (QUT), where I was embedded with Boeing Research & Technology Australia.
+I am currently a Senior Lecturer in the Department of Electrical and Computer Systems Engineering at Monash University, Australia.
+Prior to joining Monash, I was a Senior Lecturer (Mechatronics) in the School of Engineering at The Australian National University (ANU), a Research Fellow at The University of Melbourne, and an Advance Queensland Research Fellow at the Queensland University of Technology (QUT), where I was also embedded with Boeing Research & Technology Australia.
 I received my PhD and bachelor's degree in engineering (BEng) from QUT.
 I was awarded an _Outstanding Doctoral Thesis Award_ for my PhD and a _University Medal_ for my BEng.
 
