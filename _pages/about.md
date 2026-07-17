@@ -30,5 +30,5 @@
   Prior to joining Monash, I was a Senior Lecturer (Mechatronics) in the School of Engineering at the Australian National University (ANU), a Research Fellow at the University of Melbourne, and an Advance Queensland Research Fellow at the Queensland University of Technology (QUT) where I was embedded with Boeing Research & Technology Australia.
   I received the B.E. degree in Aerospace Avionics and the Ph.D. degree in Robotics and Autonomous Systems from QUT.
   
-  **Prospective Students:** I am actively recruiting PhD and project students. Current open problems include how to perform inverse optimal control online in real time; how to solve new classes of POMDPs for robot path planning and perception; and how to process event data from event-based cameras and sensors with provably optimal and/or robust algorithms. Please email me if you are interested.
+  **Prospective Students:** I am actively recruiting PhD and project students. Please email me if you are interested.
   
