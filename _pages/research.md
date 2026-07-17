@@ -41,7 +41,7 @@ Selected Papers:
 ## Partially Observed Markov Decision Processes (POMDPs) {#pomdps}
 
 POMDPs are a stochastic control framework for sequential decision-making when the system state is not fully observable.
-Applications include autonomous robot exploration, convert navigation, privacy, and cybersecurity.
+Applications include autonomous robot exploration, covert navigation, privacy, and cybersecurity.
 
 <div style="display: flex; gap: 2rem; justify-content: center; margin: 2rem 0; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; text-align: center;">
