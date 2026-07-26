@@ -7,7 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-My research spans [inverse optimal control](/research/#inverse-optimal-control), [partially observed Markov decision processes (POMDPs)](/research/#pomdps), [quickest change detection](/research/#change-detection), [dynamic and differential game theory](/research/#game-theory), and [event-based sensing and perception](/research/#event-cameras) for applications in robotics and other engineering domains.
+I am interested in the foundations of robust, reliable, and interpretable intelligent robots and autonomous systems.
+Below are some of my selected works on [inverse optimal control](/research/#inverse-optimal-control), [partially observed Markov decision processes (POMDPs)](/research/#pomdps), [quickest change detection](/research/#change-detection), [dynamic and differential game theory](/research/#game-theory), and [event-based sensing and perception](/research/#event-cameras) for applications in robotics and other domains.
 
 ---
 
