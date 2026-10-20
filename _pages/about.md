@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Senior Lecturer · <a href="https://www.monash.edu/engineering/departments/ecse">Dept. of Electrical and Computer Systems Engineering</a> · Monash University
 

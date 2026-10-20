@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: Learning, decision-making, and control under uncertainty for robots and autonomous systems.
 nav: true
 nav_order: 2
