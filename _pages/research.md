@@ -20,7 +20,7 @@ My work develops approaches to let them [learn](#learning) from the behaviour of
 
 ---
 
-## Learning: Objectives, Intent, and Skills from Behaviour {#learning}
+## Learn: Objectives, Intent, and Skills from Behaviour {#learning}
 
 Inverse optimal control (or inverse reinforcement learning) is the problem of inferring the underlying objectives of agents or decision-makers by observing their actions or the consequences of their actions.
 Applications include learning reward functions from human demonstrations, modelling bird mid-air collision avoidance, and inferring intent for aircraft collision avoidance.
@@ -47,7 +47,7 @@ Selected Papers:
 
 ---
 
-## Decision-Making: What to Sense and When to Act {#decision-making}
+## Decision-Making Under Uncertainty {#decision-making}
 
 How should an autonomous system act when it cannot see everything, its sensors are noisy, and the world may change without warning?
 My work in this theme develops methods for deciding what information to acquire and how to act on it, for detecting as quickly as possible when the situation has changed, and for sensing and perceiving fast enough to make this possible in dynamic environments.
@@ -114,7 +114,17 @@ Selected Papers:
 
 ---
 
-## Control: Safe Interaction with Other Agents {#control}
+## Control {#control}
+
+### Optimal Control {#optimal-control}
+
+Optimal control is the problem of choosing control inputs that minimise a cost, such as time, energy, or tracking error, subject to a system's dynamics and constraints.
+Applications include minimum-time escape and evasion manoeuvres for marine, aerial, and ground robots, and online control of systems whose objectives are revealed only as they operate.
+
+Selected Papers:
+
+- Y. Chen, **T. L. Molloy**, T. Summers, I. Shames. _Regret Analysis of Online LQ Control Using Trajectory Prediction and Tracking._ IEEE Transactions on Automatic Control, 2026. [[link](https://arxiv.org/abs/2302.10411)]
+- **T. L. Molloy**, I. Shames. _Minimum-Time Escape from a Circular Region for a Dubins Car._ NOLCOS, 2023. [[link](https://arxiv.org/abs/2211.01706)]
 
 ### Dynamic and Differential Game Theory {#game-theory}
 
@@ -133,14 +143,4 @@ Selected Papers:
 - P. Braun, **T. L. Molloy**, I. Shames. _Prying Pedestrian Surveillance-Evasion: Minimum-Time Evasion from an Agile Pursuer._ Journal of Guidance, Control, and Dynamics, 2025. [[link](https://arxiv.org/abs/2411.19376)]
 - Y. Chen, **T. L. Molloy**, I. Shames. _Two-Player Dynamic Potential LQ Games with Sequentially Revealed Costs._ CDC, 2025. [[link](https://arxiv.org/abs/2503.20234)]
 - **T. L. Molloy**, T. Perez, B. P. Williams. _Optimal Bearing-Only-Information Strategy for Unmanned Aircraft Collision Avoidance._ Journal of Guidance, Control, and Dynamics, 2020. [[link](https://arxiv.org/abs/2004.09744)]
-
-### Optimal Control {#optimal-control}
-
-Optimal control is the problem of choosing control inputs that minimise a cost, such as time, energy, or tracking error, subject to a system's dynamics and constraints.
-Applications include minimum-time escape and evasion manoeuvres for marine, aerial, and ground robots, and online control of systems whose objectives are revealed only as they operate.
-
-Selected Papers:
-
-- Y. Chen, **T. L. Molloy**, T. Summers, I. Shames. _Regret Analysis of Online LQ Control Using Trajectory Prediction and Tracking._ IEEE Transactions on Automatic Control, 2026. [[link](https://arxiv.org/abs/2302.10411)]
-- **T. L. Molloy**, I. Shames. _Minimum-Time Escape from a Circular Region for a Dubins Car._ NOLCOS, 2023. [[link](https://arxiv.org/abs/2211.01706)]
 
