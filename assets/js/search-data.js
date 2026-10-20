@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "",
+          description: "Learning, decision-making, and control under uncertainty for robots and autonomous systems.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
