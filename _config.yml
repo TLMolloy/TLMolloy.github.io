@@ -9,9 +9,9 @@ last_name: Molloy
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic website of Dr Timothy L. (Tim) Molloy — Senior Lecturer at Monash University.
-  Research in Robotics, Control, Signal Processing, AI, Machine Learning, and Information Theory.
+  Research on learning, decision-making, and control under uncertainty for robots and autonomous systems.
 footer_text:
-keywords: robotics, control, signal processing, machine learning, information theory, academic
+keywords: robotics, autonomous systems, control theory, machine learning, reinforcement learning, inverse reinforcement learning, learning from demonstration, inverse optimal control, POMDP, decision-making under uncertainty, game theory, event cameras, information theory, Monash University, academic
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
